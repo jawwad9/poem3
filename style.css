@@ -1,0 +1,42 @@
+.page1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.nav {
+    color: rgb(245, 245, 245);
+    font-size: 38px;
+    padding: 15px 40px;
+    background-color: #b700ff;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.para {
+    color: #0b9292;
+}
+
+.firstline {
+    color: hsl(22, 99%, 33%);
+    font: bold;
+}
+
+.poem {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00ffff;
+}
+
+.poem2 {
+    color: rgb(252, 166, 53);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.poem3 {
+    color: rgb(245, 37, 37);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.poem4 {
+    color: #b700ff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
